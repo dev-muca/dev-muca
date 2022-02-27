@@ -4,6 +4,7 @@
     <a href="https://github.com/dev-muca/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-muca&show_icons=true&theme=dark&include_all_commits=true&count_private=true/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muca&layout=compact&langs_count=16&theme=dark"/>
+    </a>
 </div>
 
 <h3 align="left">Front-End skills:</h3>
