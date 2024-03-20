@@ -1,7 +1,7 @@
 ![](https://em-content.zobj.net/thumbs/120/sony/336/call-me-hand_1f919.png) Eaí, tudo bem? Seja bem-vindo, meu nome é Murilo
 =======================================================================================================================================
 
-🧠 Em constantes estudos para se tornar Desenvolvedor Fullstack
+🧠 Em constantes estudos para se tornar Desenvolvedor FullCycle
 -------------------
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif)
 
