@@ -2,7 +2,7 @@
 =======================================================================================================================================
 
 <pre>
-Sei fazer uns sites ai e codar umas parada
+C:\>echo "Sei fazer uns sites ai e codar umas parada"
 
-Contato: murilo.baleeiro@hotmail.com
+C:\> echo "Contato: murilo.baleeiro@hotmail.com"
 </pre>
